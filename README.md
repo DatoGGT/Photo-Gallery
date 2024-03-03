@@ -29,5 +29,21 @@
 
 1. Clone the repository
   ------------ https://github.com/DatoGGT/Sweeft-Task.git
-cd 
+
+
+
+
+
+   
+cd  SWEEFT-TASK
+
+
+
+
+
+
+
+
+
+
 npm start
