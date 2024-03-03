@@ -42,6 +42,19 @@ const StyledHeader = styled.header`
     
     }
     }
+     @media screen and (max-width: 600px) {
+        width: 100%;
+        
+        & input {
+        width: 100% !important;
+        }
+    }
+    @media screen and (min-width:600px) and ( max-width: 900px) {
+        width: 100%;
+            & input {
+            width: 100% !important;
+            }
+    }
     
 `
 const Main = styled.main`
